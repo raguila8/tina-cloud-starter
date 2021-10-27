@@ -8,6 +8,10 @@
     "color": "default",
     "nav": [
       {
+        "href": "home",
+        "label": "Home"
+      },
+      {
         "href": "",
         "label": "Home"
       },
@@ -16,8 +20,8 @@
         "label": "About"
       },
       {
-        "href": "posts",
-        "label": "Blog"
+        "href": "/hello",
+        "label": "Hello"
       }
     ]
   },
@@ -32,7 +36,7 @@
   "theme": {
     "color": "blue",
     "font": "sans",
-    "icon": "boxicon",
+    "icon": "heroicon",
     "darkMode": "system"
   }
 }
